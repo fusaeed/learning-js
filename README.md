@@ -1,2 +1,3 @@
 # learning-js
-Learning Javascript
+
+Learning Javascript and apply new knowledge.
