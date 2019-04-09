@@ -1,0 +1,35 @@
+body {
+    margin: auto 0;
+}
+
+nav {
+    background-color: aqua;
+}
+
+.zone-green {
+    cursor: pointer;
+    background-color: 'blue';
+    border: 1px solid #bbb;
+    transition: all 0.3s linear;
+}
+
+.main-nav {
+    display: flex;
+    list-style: none;
+    font-size: 0.7em;
+    margin: 0;
+    background-color: 'primary';
+}
+
+li {
+    padding: 20px;
+}
+
+a {
+    /* color: #f5f5f6; */
+    text-decoration: none;
+}
+
+.push {
+    margin-left: auto;
+}
